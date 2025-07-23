@@ -1,4 +1,4 @@
-# Robot-Karel
+# Robot-Karel //todo ver.
 C + Raylib
 
 gcc karel.c -o karel -lraylib -lm
